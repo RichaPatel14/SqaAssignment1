@@ -1,0 +1,12 @@
+D:\SQA\RichaAssignment1\TestCases\bin\Debug\TestCases.dll
+D:\SQA\RichaAssignment1\TestCases\bin\Debug\TestCases.pdb
+D:\SQA\RichaAssignment1\TestCases\obj\Debug\TestCases.csprojAssemblyReference.cache
+D:\SQA\RichaAssignment1\TestCases\obj\Debug\TestCases.csproj.CoreCompileInputs.cache
+D:\SQA\RichaAssignment1\TestCases\obj\Debug\TestCases.dll
+D:\SQA\RichaAssignment1\TestCases\obj\Debug\TestCases.pdb
+D:\SQA\RichaAssignment1\TestCases\bin\Debug\RichaAssignment1.exe
+D:\SQA\RichaAssignment1\TestCases\bin\Debug\RichaAssignment1.pdb
+D:\SQA\RichaAssignment1\TestCases\bin\Debug\RichaAssignment1.exe.config
+D:\SQA\RichaAssignment1\TestCases\obj\Debug\TestCases.csproj.CopyComplete
+D:\SQA\RichaAssignment1\TestCases\bin\Debug\nunit.framework.dll
+D:\SQA\RichaAssignment1\TestCases\bin\Debug\nunit.framework.xml

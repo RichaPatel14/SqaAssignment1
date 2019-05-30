@@ -1,0 +1,10 @@
+D:\SQA\RichaAssignment1\RichaAssignment1\bin\Debug\RichaAssignment1.exe.config
+D:\SQA\RichaAssignment1\RichaAssignment1\bin\Debug\RichaAssignment1.exe
+D:\SQA\RichaAssignment1\RichaAssignment1\bin\Debug\RichaAssignment1.pdb
+D:\SQA\RichaAssignment1\RichaAssignment1\obj\Debug\RichaAssignment1.csprojAssemblyReference.cache
+D:\SQA\RichaAssignment1\RichaAssignment1\obj\Debug\RichaAssignment1.csproj.CoreCompileInputs.cache
+D:\SQA\RichaAssignment1\RichaAssignment1\obj\Debug\RichaAssignment1.exe
+D:\SQA\RichaAssignment1\RichaAssignment1\obj\Debug\RichaAssignment1.pdb
+D:\SQA\RichaAssignment1\RichaAssignment1\bin\Debug\nunit.framework.dll
+D:\SQA\RichaAssignment1\RichaAssignment1\bin\Debug\nunit.framework.xml
+D:\SQA\RichaAssignment1\RichaAssignment1\obj\Debug\RichaAssignment1.csproj.CopyComplete
