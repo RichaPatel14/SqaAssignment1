@@ -49,12 +49,12 @@ namespace RichaAssignment1
 
         public int GetPerimeter()
         {
-            return length * width;
+            return 2 * (length + width);
         }
 
         public int GetArea()
         {
-            return 2 * (length + width);
+            return  length* width;
         }
     }
 }
