@@ -10,7 +10,7 @@ namespace RichaAssignment1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Richa Patel\n ID-8334401\n");
+            Console.WriteLine("Richa Patel\nID-8334401\n");
 
             Program pg = new Program();
             pg.Fun();
@@ -110,5 +110,6 @@ namespace RichaAssignment1
                 Console.WriteLine(a);
             }
         }
+
     }
 }
